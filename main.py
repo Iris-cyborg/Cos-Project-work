@@ -1,4 +1,4 @@
-from file_loader import load_file
+from loader import load_file
 from csv_reader import create_reader
 from initializer import initialize
 from processor import process_records
